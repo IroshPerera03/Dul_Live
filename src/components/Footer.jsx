@@ -1,8 +1,8 @@
+import "../styles/footer.css";
 const Footer = () => {
   return (
-    <footer>
-      <h1>Footer</h1>
-      {/* Add your footer content here */}
+    <footer className="footer">
+      <h1>CINEMATOGRAPHER X CONTENT CREATOR</h1>
     </footer>
   );
 };

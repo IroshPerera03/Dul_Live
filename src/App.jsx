@@ -4,12 +4,12 @@ import {
   Route,
   Navigate,
 } from "react-router-dom";
-import { Header } from "./components/Header";
-import { Footer } from "./components/Header";
-import { HomePage } from "./pages/HomePage";
-import { ProjectsPage } from "./pages/ProjectsPage";
-import { ContactsPage } from "./pages/ContactsPage";
-function App() {
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import HomePage from "./pages/HomePage";
+import ProjectsPage from "./pages/ProjectsPage";
+import ContactsPage from "./pages/ContactsPage";
+const App = () => {
   return (
     <Router basename="/DulLive">
       <div className="app-container">
@@ -24,6 +24,6 @@ function App() {
       </div>
     </Router>
   );
-}
+};
 
 export default App;

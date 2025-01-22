@@ -1,0 +1,17 @@
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 2rem 0;
+  font-family: Arial, sans-serif;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+}
