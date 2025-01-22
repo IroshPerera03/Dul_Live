@@ -1,0 +1,9 @@
+.home-hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  height: 70vh;
+  width: auto;
+}

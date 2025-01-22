@@ -1,7 +1,11 @@
+import Logo from "../assets/Logos/Logo_White.png";
+import "../styles/homePage.css";
 const HomePage = () => {
   return (
-    <div>
-      <h1>Home</h1>
+    <div className="home">
+      <div className="home-hero container">
+        <img src={Logo} />
+      </div>
     </div>
   );
 };

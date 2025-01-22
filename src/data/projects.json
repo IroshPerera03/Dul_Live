@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Vishma Gimhan Sankalpa's Birthday Party",
+        "date": "2025-01-3",
+        "thumbnail": "../assets/ProjectsCarousel/1.png",
+        "video": "../assets/Projects Carousel/1.mp4"
+    },
+    {
+        "title": "",
+        "date": "2023-02-20",
+        "thumbnail": "",
+        "video": "https://example.com/project-two-video.mp4"
+    }
+]
